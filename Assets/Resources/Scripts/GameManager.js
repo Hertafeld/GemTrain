@@ -25,7 +25,7 @@ function Start () {
 	dead = false;
 	score = 0;
 	secondTenth = 0;
-	timer = 60.0;
+	timer = 70.0;
 	gemFolder = new GameObject();  
 	gemFolder.name = "Gems";
 	gems = new Array();
